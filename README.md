@@ -4,29 +4,29 @@ Este repositorio de GitHub contiene los trabajos realizados para la asignatura d
 ### Estructura del Repositorio
 El repositorio está organizado en las siguientes carpetas:
 
-Preprocesado básico de datos: Esta carpeta contiene trabajos relacionados con el preprocesamiento básico de datos. Se exploran técnicas como el manejo de valores faltantes, la normalización de datos y la codificación de variables categóricas.
+Preprocesado básico de datos: Preprocesamiento básico de datos, incluyendo la conversión de datos simbólicos a numéricos, la escalación de valores numéricos y la división de conjuntos de datos en segmentos de entrenamiento y prueba.
 
-Regresión Lineal: Aquí se encuentran trabajos relacionados con la regresión lineal, un método para predecir valores numéricos continuos. Se exploran conceptos como la línea de regresión, el coeficiente de determinación y la evaluación de modelos de regresión lineal.
+Regresión Lineal: Comprensión más profunda de las técnicas de regresión lineal y regularización, y cómo se pueden aplicar para mejorar la estimación y el desempeño del modelo.
 
-Regresión Lineal II: En esta carpeta se profundiza en la regresión lineal y se exploran técnicas avanzadas, como la regresión lineal múltiple, la selección de características y la validación cruzada en la regresión lineal.
+Regresión Lineal II: Analizar la dependencia lineal entre las características y la variable respuesta utilizando coeficientes de determinación, así como en evaluar el desempeño de la regresión lineal al utilizar diferentes conjuntos de características.
 
-Perceptron: Aquí se presentan trabajos relacionados con el perceptrón, uno de los algoritmos más básicos utilizados en el aprendizaje automático para la clasificación de datos. Se exploran los fundamentos del perceptrón y se implementan modelos de clasificación utilizando esta técnica.
+Perceptron: Comprender y experimentar con el algoritmo Perceptron y su capacidad para clasificar diferentes conjuntos de datos. Se analiza la separación de la superficie de decisión, las muestras mal clasificadas y se evalúa el rendimiento del algoritmo en la clasificación de las muestras.
 
-Perceptron II: En esta carpeta se profundiza en el perceptrón y se exploran variantes y extensiones, como el perceptrón multicapa y las redes neuronales artificiales. Se implementan modelos más complejos utilizando estas técnicas.
+Perceptron II: Comprensión práctica del funcionamiento del algoritmo Perceptrón y su aplicación en la clasificación lineal.
 
-Regresión Logística: Aquí se presentan trabajos relacionados con la regresión logística, un algoritmo utilizado para la clasificación de datos binarios. Se exploran conceptos como la función sigmoide, la maximización de la verosimilitud y la evaluación de modelos de regresión logística.
+Regresión Logística: Comprensión práctica del uso de la Regresión Logística como un clasificador lineal y su aplicación en la clasificación de conjuntos de datos sintéticos y de imágenes.
 
-Vecinos más cercanos: En esta carpeta se encuentran trabajos relacionados con el algoritmo de los vecinos más cercanos, utilizado para la clasificación y regresión de datos. Se exploran diferentes métricas de distancia y se implementan modelos utilizando este algoritmo.
+Vecinos más cercanos: Comprensión profunda del algoritmo k-NN y su aplicación en la clasificación de datos.
 
-Máquinas de Vectores Soporte: Aquí se presentan trabajos relacionados con las máquinas de vectores soporte (SVM), un algoritmo utilizado para la clasificación y regresión de datos. Se exploran diferentes kernels y se implementan modelos utilizando SVM.
+Máquinas de Vectores Soporte: Aprender sobre la aplicación de SVM, explorar diferentes valores de C y núcleos, y evaluar el rendimiento de los clasificadores en conjuntos de datos sintéticos y en la clasificación de imágenes de caras según el género.
 
-Clasificador Bayesiano: En esta carpeta se encuentran trabajos relacionados con el clasificador bayesiano, un enfoque probabilístico para la clasificación de datos. Se exploran los fundamentos del teorema de Bayes y se implementan modelos utilizando esta técnica.
+Clasificador Bayesiano: Aplicar diferentes implementaciones del clasificador Naive Bayes para clasificar mensajes como legítimos (ham) o spam.
 
-Estimación del rendimiento: Aquí se presentan trabajos relacionados con la estimación del rendimiento de los modelos de aprendizaje automático. Se exploran técnicas como la validación cruzada, la curva de aprendizaje y la matriz de confusión.
+Estimación del rendimiento: Aprender sobre la estimación del rendimiento de diferentes clasificadores utilizando medidas como la matriz de confusión, la tasa de acierto y la curva ROC.
 
-Árboles de Decisión: En esta carpeta se encuentran trabajos relacionados con los árboles de decisión, un algoritmo utilizado para la clasificación y regresión de datos. Se exploran conceptos como la ganancia de información, la poda de árboles y se implementan modelos utilizando esta técnica.
+Árboles de Decisión: Aprender sobre el uso de árboles de decisión para la clasificación de células en un problema de diagnóstico médico.
 
-Evaluación en clasificación: Aquí se presentan trabajos relacionados con la evaluación de modelos de clasificación. Se exploran diferentes métricas de evaluación, como la precisión, la exhaustividad y la curva ROC.
+Evaluación en clasificación: Comprender mejor los procesos de evaluación del rendimiento de modelos de regresión (árbol de regresión y regresión lineal) para estimar el valor de las casas.
 
 Cada carpeta contiene los archivos fuente, ejemplos de código y documentación relacionada con los conceptos y técnicas abordadas en la asignatura.
 
